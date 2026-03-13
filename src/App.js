@@ -1,4 +1,4 @@
-import Home from "./pages/home";
+import Home from "./pages/Homeome";
 import Calculator from "./pages/Calculator";
 import Projects from "./pages/Projects";
 import Booking from "./pages/Booking";
