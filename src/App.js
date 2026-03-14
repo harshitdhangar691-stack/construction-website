@@ -1,4 +1,4 @@
-import Home from "./pages/Homeome";
+import Home from "./pages/Home";
 import Calculator from "./pages/Calculator";
 import Projects from "./pages/Projects";
 import Booking from "./pages/Booking";
@@ -6,15 +6,10 @@ import Booking from "./pages/Booking";
 function App() {
   return (
     <div>
-
-      <Home/>
-
-      <Calculator/>
-
-      <Projects/>
-
-      <Booking/>
-
+      <Home />
+      <Calculator />
+      <Projects />
+      <Booking />
     </div>
   );
 }
